@@ -1,2 +1,2 @@
 # Integrity-Farm-
-Read White paper in Pitch deck.pdf
+Read White paper in WP.pdf
